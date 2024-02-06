@@ -1,8 +1,5 @@
 <template>
-  <div class="Main">
-    <alert></alert>
-    <Profile></Profile>
-  </div>
+  <div class="Main">Main page</div>
 </template>
 <script></script>
 <style scoped></style>
