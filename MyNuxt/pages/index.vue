@@ -1,5 +1,8 @@
 <template>
   <div class="Main">Main page</div>
 </template>
-<script></script>
+<script>
+const { sayHello } = useUtils();
+sayHello();
+</script>
 <style scoped></style>
