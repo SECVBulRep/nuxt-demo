@@ -1,5 +1,8 @@
 <template>
-  <div class="Main">Main page</div>
+  <div class="Main">
+    Main page
+    <ContentDoc></ContentDoc>
+  </div>
 </template>
 <script>
 definePageMeta({
