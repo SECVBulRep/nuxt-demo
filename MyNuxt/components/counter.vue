@@ -7,7 +7,5 @@ const counter = useCounter();
     Counter: {{ counter }}
     <button @click="counter++">+</button>
     <button @click="counter--">-</button>
-
-    <Counter id="counter"></Counter>
   </div>
 </template>
